@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Hola/static/css/main.37448acd.chunk.css",
+    "main.js": "/Hola/static/js/main.d48ee5a7.chunk.js",
+    "main.js.map": "/Hola/static/js/main.d48ee5a7.chunk.js.map",
+    "runtime-main.js": "/Hola/static/js/runtime-main.d7e9c336.js",
+    "runtime-main.js.map": "/Hola/static/js/runtime-main.d7e9c336.js.map",
+    "static/js/2.cc4f5b9d.chunk.js": "/Hola/static/js/2.cc4f5b9d.chunk.js",
+    "static/js/2.cc4f5b9d.chunk.js.map": "/Hola/static/js/2.cc4f5b9d.chunk.js.map",
+    "index.html": "/Hola/index.html",
+    "precache-manifest.56ece2d58880ed3b31a2a9506cbea215.js": "/Hola/precache-manifest.56ece2d58880ed3b31a2a9506cbea215.js",
+    "service-worker.js": "/Hola/service-worker.js",
+    "static/css/main.37448acd.chunk.css.map": "/Hola/static/css/main.37448acd.chunk.css.map",
+    "static/js/2.cc4f5b9d.chunk.js.LICENSE.txt": "/Hola/static/js/2.cc4f5b9d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7e9c336.js",
+    "static/js/2.cc4f5b9d.chunk.js",
+    "static/css/main.37448acd.chunk.css",
+    "static/js/main.d48ee5a7.chunk.js"
+  ]
+}
